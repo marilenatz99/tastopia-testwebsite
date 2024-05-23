@@ -1,0 +1,432 @@
+[
+  {
+    "id": 1,
+    "title": "3x Fried chicken wings",
+    "categoryId": 1,
+    "ingredients": [
+      "Chicken",
+      "Seasoning"
+    ],
+    "descr": "Crispy and golden-brown, fried chicken wings are a delectable treat enjoyed for their flavorful, seasoned exterior and tender, juicy meat on the inside. Whether coated in a tangy buffalo sauce or served plain with a side of dipping sauce, these savory bites are a popular and satisfying snack or meal option.",
+    "price": 6,
+    "image": "starters0.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Farmers favorite",
+    "categoryId": 1,
+    "ingredients": [
+      "Bread",
+      "Olive sauce",
+      "Artichoke",
+      "Mini tomatoes",
+      "Prosciutto",
+      "Arugula"
+    ],
+    "descr": "Application specially indicated for structuring tofu and/or creating new tofu products structuring it with other ingredients like algae, dry fruits, nuts, etc.",
+    "price": 4,
+    "image": "starters1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Melitzanosalata",
+    "categoryId": 1,
+    "ingredients": [
+      "Bread",
+      "Eggplant",
+      "Olive oil",
+      "Garlic",
+      "Lemon juice",
+      "Herbs ",
+      "Parsley"
+    ],
+    "descr": "Melitzanosalata is a traditional Greek dish, often served as a dip or spread. It’s primarily made from roasted eggplants, which are known for their rich, smoky flavor. The eggplants are typically mashed or blended and then combined with olive oil, garlic, lemon juice, and herbs like parsley. ",
+    "price": 6,
+    "image": "starters2.jpg"
+  },
+  {
+    "id": 4,
+    "title": "French fries",
+    "categoryId": 1,
+    "ingredients": [
+      "Potatoes",
+      "Oregano",
+      "Salt"
+    ],
+    "descr": "Golden and irresistibly crispy, French fries are a classic side dish beloved for their simple yet addictive appeal. Whether seasoned with salt, smothered in ketchup, or served alongside a juicy burger, these potato delights are a universally cherished indulgence.",
+    "price": 3,
+    "image": "starters3.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Roasted potatoes",
+    "categoryId": 1,
+    "ingredients": [
+      "Potatoes",
+      "Rosemary",
+      "Salt"
+    ],
+    "descr": "Roasted potatoes, with their crispy exteriors and tender insides, offer a delightful contrast in texture and a rich, savory flavor. Whether seasoned with herbs, garlic, or simple salt and pepper, these golden-brown gems make for a comforting and versatile side dish that complements a variety of meals.",
+    "price": 3.5,
+    "image": "starters4.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Structured Tofu With Raisins and Seaweeds",
+    "categoryId": 2,
+    "ingredients": [
+      "Tofu",
+      "Tomato",
+      "Onion",
+      "Arugula",
+      "Cucumber",
+      "Purple Cabbage",
+      "Eggs",
+      "Green beans",
+      "Seasoning"
+    ],
+    "descr": "Application specially indicated for structuring tofu and/or creating new tofu products structuring it with other ingredients like algae, dry fruits, nuts, etc.",
+    "price": 8,
+    "image": "salads0.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Pasta salad",
+    "categoryId": 2,
+    "ingredients": [
+      "Pasta",
+      "Tomato",
+      "Lettuce",
+      "Spinach sauce",
+      "Salt"
+    ],
+    "descr": "Al pesto pasta. A perfect and unique basil sauce that stands out both for its taste and texture and goes perfectly with the bows.",
+    "price": 6.5,
+    "image": "salads1.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Veggies salad",
+    "categoryId": 2,
+    "ingredients": [
+      "Red onion",
+      "Walnuts",
+      "Arugula",
+      "Carrot",
+      "Olives",
+      "Grapes",
+      "Feta cheese"
+    ],
+    "descr": "`Charring the cabbage gives this sizzlin’ slaw a smoky flavour, while avocado replaces mayo in the zingy dressing`, says Derek Sarno, Tesco`s director of Plant-Based innovation. A fresh, crunchy salad that`s great for serving at your next alfresco meal, you won`t regret making this.",
+    "price": 5,
+    "image": "salads2.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Like greek salad",
+    "categoryId": 2,
+    "ingredients": [
+      "Feta cheese",
+      "Tomatoes",
+      "Bread",
+      "Spinach",
+      "Olive oil",
+      "Seasoning"
+    ],
+    "descr": "Greek salad, a refreshing Mediterranean classic, combines crisp cucumbers, juicy tomatoes, briny Kalamata olives, and tangy feta cheese, all drizzled with olive oil and sprinkled with oregano. This vibrant and flavorful salad captures the essence of Greek cuisine, offering a delightful mix of textures and tastes in every bite.",
+    "price": 4.5,
+    "image": "salads3.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Buffalo chicken burger",
+    "categoryId": 3,
+    "ingredients": [
+      "Chicken",
+      "Buffalo sauce",
+      "Purple cabbage",
+      "Pink sauce",
+      "Pickles"
+    ],
+    "descr": "A Buffalo chicken burger is a spicy and savory delight, featuring a juicy chicken patty coated in zesty buffalo sauce, topped with cool lettuce, tomato, and a creamy blue cheese dressing. The combination of heat from the buffalo sauce and the creamy richness of the blue cheese creates a mouthwatering and satisfying burger experience.",
+    "price": 6,
+    "image": "burgers0.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Fish burger",
+    "categoryId": 3,
+    "ingredients": [
+      "Fish",
+      "Onion",
+      "Cabbage",
+      "Mayonnaise sauce",
+      "Pickles"
+    ],
+    "descr": "A fried fish burger is a crispy and flavorful culinary delight, showcasing a succulent fish fillet that`s deep-fried to perfection and nestled within a soft bun. Accompanied by tangy tartar sauce, crisp lettuce, and a squeeze of lemon, this seafood sensation offers a delightful harmony of textures and tastes.",
+    "price": 8,
+    "image": "burgers1.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Double cheeseburger",
+    "categoryId": 3,
+    "ingredients": [
+      "Beef",
+      "Cheddar",
+      "Tomato",
+      "Lettuce",
+      "Onion",
+      "Cocktail sauce"
+    ],
+    "descr": "The double cheddar cheeseburger is a carnivore`s dream, featuring two perfectly grilled beef patties layered with gooey cheddar cheese, creating a decadent and indulgent experience. With each bite, the rich and melty cheddar adds an extra layer of savory goodness to the already juicy and flavorful burger.",
+    "price": 5.5,
+    "image": "burgers2.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Big patty with caramelized onions",
+    "categoryId": 3,
+    "ingredients": [
+      "Beef",
+      "Peppers",
+      "Cheddar",
+      "Pickles",
+      " Onions",
+      "Special sauce",
+      "Cocktail sauce"
+    ],
+    "descr": "The big patty with caramelized onions is a savory delight, blending a hearty grilled beef patty with the sweet richness of caramelized onions for a deliciously satisfying burger experience.",
+    "price": 7,
+    "image": "burgers3.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Pineapple - chicken",
+    "categoryId": 4,
+    "ingredients": [
+      "Pineapple",
+      "Chicken",
+      "Cilantro",
+      "Cheese",
+      "Tomato sauce",
+      "Onion",
+      "Spicy sauce",
+      "Seasoning"
+    ],
+    "descr": "Pineapple-chicken pizza offers a tasty blend of savory grilled chicken and sweet, tangy pineapple, creating a uniquely delicious twist on the classic. The tropical notes from the pineapple complement the savory chicken for a flavorful pizza experience.",
+    "price": 9,
+    "image": "pizza0.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Margarita - Olives - Egg",
+    "categoryId": 4,
+    "ingredients": [
+      "Cheese",
+      "Tomato sauce",
+      "Olives",
+      "Egg",
+      "Oregano"
+    ],
+    "descr": "Margarita-Olives-Egg pizza combines the classic simplicity of a Margherita pizza with the briny goodness of olives and the richness of a perfectly cooked egg. This flavorful combination elevates the traditional Margherita, offering a unique and delightful pizza experience.",
+    "price": 8,
+    "image": "pizza1.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Spinach - Mozzarella",
+    "categoryId": 4,
+    "ingredients": [
+      "Spinach",
+      "Mozzarella",
+      "Toma sauce",
+      "Seasoning"
+    ],
+    "descr": "Spinach-Mozzarella pizza showcases a perfect pairing of vibrant spinach and gooey mozzarella, creating a wholesome and flavorful pizza. The earthy notes of spinach harmonize with the creamy richness of mozzarella for a deliciously satisfying slice.",
+    "price": 8,
+    "image": "pizza2.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Special",
+    "categoryId": 4,
+    "ingredients": [
+      "Sausage",
+      "Peppers",
+      "Olives",
+      "Mushrooms",
+      "Cheese",
+      "Tomato sauce",
+      "Oregano"
+    ],
+    "descr": "The \"special\" pizza is a culinary masterpiece, featuring a unique blend of premium ingredients that tantalize the taste buds. With a medley of flavors and textures, each bite delivers a delightful surprise for a truly special pizza experience.",
+    "price": 10,
+    "image": "pizza3.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Spaghetti Bolognese",
+    "categoryId": 5,
+    "ingredients": [
+      "Ground meat",
+      "Onions",
+      "Celery",
+      "Carrots",
+      "Garlic",
+      "Tomatoes",
+      "Red wine",
+      "Broth",
+      "Oregano",
+      "Basil"
+    ],
+    "descr": "Bolognese pasta is a comforting Italian classic, boasting a rich and hearty meat sauce that clings to the pasta, creating a satisfying and flavorful dish. The slow-cooked blend of ground meat, tomatoes, and aromatic herbs makes Bolognese pasta a timeless favorite for pasta enthusiasts.",
+    "price": 9.5,
+    "image": "pasta0.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Spaghetti Carbonara",
+    "categoryId": 5,
+    "ingredients": [
+      "Bacon",
+      "Egg",
+      "Heavy cream"
+    ],
+    "descr": "Spaghetti carbonara is a Roman classic, featuring pasta tossed with a creamy sauce made from eggs, Pecorino Romano cheese, pancetta or guanciale, and black pepper. The simplicity of the ingredients harmonizes to create a flavorful and indulgent dish that captures the essence of Italian comfort cuisine.",
+    "price": 8.5,
+    "image": "pasta1.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Fettuccine with pieces of calf",
+    "categoryId": 5,
+    "ingredients": [
+      "Calf meat",
+      "Olive oil",
+      "Garlic",
+      "Onions",
+      "Tomatoes",
+      "White wine",
+      "Heavy cream",
+      "Parmesan cheese",
+      "Seasonings"
+    ],
+    "descr": "Fettuccine with pieces of calf is a savory delight, showcasing tender pieces of calf meat combined with wide ribbons of pasta for a hearty and satisfying dish. The rich flavors and textures come together, creating a comforting meal that elevates the classic fettuccine pasta experience.",
+    "price": 10,
+    "image": "pasta2.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Pasta with shells and red peppers",
+    "categoryId": 5,
+    "ingredients": [
+      "Red bell peppers",
+      "Olive oil",
+      "Garlic",
+      "Onions",
+      "Tomato sauce",
+      "Seasoning"
+    ],
+    "descr": "Pasta with shells and red peppers is a vibrant and flavorful dish, featuring pasta shells tossed with sautéed red bell peppers for a delicious pop of sweetness and color. The combination of tender pasta and the roasted flavor of red peppers creates a delightful and visually appealing meal.",
+    "price": 13,
+    "image": "pasta3.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Pasta with shrimps",
+    "categoryId": 5,
+    "ingredients": [
+      "Olive oil",
+      "Garlic",
+      "Cherry tomatoes",
+      "White wine",
+      "Lemon juice",
+      "Seasoning"
+    ],
+    "descr": "Pasta with shrimps is a delightful seafood pasta dish, featuring succulent shrimp tossed with al dente pasta in a flavorful sauce. The combination of tender pasta and juicy shrimp creates a satisfying and elegant meal with a hint of maritime richness.",
+    "price": 15,
+    "image": "pasta4.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Red velvet cupcake",
+    "categoryId": 6,
+    "ingredients": [],
+    "descr": "",
+    "price": 6,
+    "image": "desserts0.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Chocolate cake piece",
+    "categoryId": 6,
+    "ingredients": [],
+    "descr": "",
+    "price": 4,
+    "image": "desserts1.jpg"
+  },
+  {
+    "id": 25,
+    "title": "3x Donats",
+    "categoryId": 6,
+    "ingredients": [],
+    "descr": "",
+    "price": 5,
+    "image": "desserts2.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Ketchup",
+    "categoryId": 7,
+    "ingredients": [],
+    "descr": "",
+    "price": 1.2,
+    "image": "dressing0.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Mustard",
+    "categoryId": 7,
+    "ingredients": [],
+    "descr": "",
+    "price": 1.2,
+    "image": "dressing1.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Coca Cola 333ml",
+    "categoryId": 8,
+    "ingredients": [],
+    "descr": "",
+    "price": 1.7,
+    "image": "drinks0.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Soda 333ml",
+    "categoryId": 8,
+    "ingredients": [],
+    "descr": "",
+    "price": 1.7,
+    "image": "drinks1.jpg"
+  },
+  {
+    "id": 30,
+    "title": "White wine 1L",
+    "categoryId": 8,
+    "ingredients": [],
+    "descr": "",
+    "price": 15,
+    "image": "drinks2.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Red wine 1L",
+    "categoryId": 8,
+    "ingredients": [],
+    "descr": "",
+    "price": 15,
+    "image": "drinks3.jpg"
+  }
+]

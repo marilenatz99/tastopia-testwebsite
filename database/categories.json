@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Starters",
+        "image": "starters.png"
+    },
+    {
+        "id": 2,
+        "name": "Salads",
+        "image": "salad.png"
+    },
+    {
+        "id": 3,
+        "name": "Burgers",
+        "image": "burger.png"
+    },
+    {
+        "id": 4,
+        "name": "Pizza",
+        "image": "pizza.png"
+    },
+    {
+        "id": 5,
+        "name": "Pasta",
+        "image": "pasta.png"
+    },
+    {
+        "id": 6,
+        "name": "Desserts",
+        "image": "desserts.png"
+    },
+    {
+        "id": 7,
+        "name": "Dressing",
+        "image": "dressing.png"
+    },
+    {
+        "id": 8,
+        "name": "Drinks",
+        "image": "drinks.png"
+    }
+]
